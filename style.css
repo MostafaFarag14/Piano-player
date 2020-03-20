@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    background: #ffc63f;
+    background: #c1c1c1;
   }
   .title{
     font-size: 36px;
@@ -73,7 +73,7 @@ body{
     margin: 0 auto;
     padding-left: 20px;
     margin-top: 50px;
-    background-color: #fd4d3f;
+    background-color: #313131e3;
   }
   #column-one, #column-two, #column-three, #column-four, #column-five, #column-six, #column-optional{
     width: 90px;

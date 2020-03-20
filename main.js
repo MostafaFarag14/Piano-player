@@ -28,7 +28,7 @@ document.addEventListener('keyup', (event) => {
 
 // Write named functions that change the color of the keys below
 keyPlay = (event) => {
-    event.target.style.backgroundColor = "green"
+    event.target.style.backgroundColor = "#585858"
     event.target.children[0].currentTime = 0
     event.target.children[0].play()
     
